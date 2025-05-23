@@ -45,7 +45,7 @@ const Hero = () => {
           </div>
         </div>
         <div className="flex items-center justify-center">
-          <p className="text-center text-xl mt-8 max-w-md">
+          <p className="text-center text-xl mt-8 sm:mt-10 max-w-md px-6">
             Celebrate the joy of accomplishment with an app designed to track
             your progress, motivate your efforts, and celebrate your successes.
           </p>
