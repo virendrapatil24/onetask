@@ -9,7 +9,8 @@ const Footer = () => {
       <div className="container">
         <div className="flex flex-col gap-4 sm:flex-row justify-between items-center">
           <div className="text-center items-center">
-            © 2025 Developed with ❤️ by{" "}
+            © 2025 Developed with{" "}
+            <span className="animate-pulse text-white">❤️</span> by{" "}
             <a
               href="https://www.virendrapatil.xyz/"
               target="_blank"
